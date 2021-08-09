@@ -18,5 +18,9 @@ This code controls the color and pattern of LEDs on the Dendrite Sculpture Locat
 - Adding a timer so the tree lights up at a specific time each night
 - Adding solar panels so the tree literally photosynthesizes
 
+# Readability
+- Please make sure to write code that is readable and add comments when you can
+- Please use Markdown to edit the contents of this README.md
+
 # Contact
 I'm always happy to help and please reach out to me at cstujo5@gmail.com for any questions you might have! For additional design questions, see [Dendrite Sculpture](https://connorjohnstonduke.wordpress.com/led-tree-sculpture/)
