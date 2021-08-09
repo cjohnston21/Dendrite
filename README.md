@@ -19,4 +19,4 @@ This code controls the color and pattern of LEDs on the Dendrite Sculpture Locat
 - Adding solar panels so the tree literally photosynthesizes
 
 # Contact
-You can reach me at cstujo5@gmail.com for questions
+I'm always happy to help and please reach out to me at cstujo5@gmail.com for any questions you might have! For additional design questions, see [Dendrite Sculpture](https://connorjohnstonduke.wordpress.com/led-tree-sculpture/)
